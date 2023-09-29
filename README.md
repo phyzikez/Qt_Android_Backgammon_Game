@@ -36,12 +36,13 @@ Brief description of game.
 	-- Qt slot-&-signal communications
 	-- STL containers and algorithms
 	-- STL random generator
+  	-- std::function, lambdas
 
 SCREENSHOTS:
 
-![5](https://github.com/phyzikez/Qt_Android_Backgammon_Game/assets/125161772/c032c1da-c06d-4d83-bc1a-68b5c9d6718f)
+![1](https://github.com/phyzikez/Qt_Android_Backgammon_Game/assets/125161772/c032c1da-c06d-4d83-bc1a-68b5c9d6718f)
 ![4](https://github.com/phyzikez/Qt_Android_Backgammon_Game/assets/125161772/b35415cf-8b17-4b94-8baa-cb8f92346021)
 ![3](https://github.com/phyzikez/Qt_Android_Backgammon_Game/assets/125161772/5aa3dcd3-9ef8-4398-af43-d794283a46ae)
 ![2](https://github.com/phyzikez/Qt_Android_Backgammon_Game/assets/125161772/62ca4e80-6d13-4136-b457-4b6ca29ee955)
-![1](https://github.com/phyzikez/Qt_Android_Backgammon_Game/assets/125161772/f6b0255b-bf63-4391-bcc8-5795a1b1c77c)
-	-- std::function, lambdas
+![5](https://github.com/phyzikez/Qt_Android_Backgammon_Game/assets/125161772/f6b0255b-bf63-4391-bcc8-5795a1b1c77c)
+	
